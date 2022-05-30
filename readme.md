@@ -56,3 +56,5 @@ Or if using docker.
 ```
 docker build -t gihtub-maker-tools .
 ```
+
+Everytime you update your token, you'll need to rebuild the image if using docker.
