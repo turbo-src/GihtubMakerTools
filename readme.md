@@ -42,7 +42,7 @@ Create a `ght.ini` file with you info inside `GihtubMakerTools`.
 [github.org]
 User = bedardn93
 Token = ghp_abcdefg
-Organization = supertestorg123
+Organization =
 ```
 
 Install everything.
