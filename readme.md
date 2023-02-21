@@ -45,6 +45,8 @@ Token = ghp_abcdefg
 Organization =
 ```
 
+You'll generate api token from Github. You need the scopes `repo` and `delete_repo`
+
 Install everything.
 
 ```
